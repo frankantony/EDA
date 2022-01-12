@@ -86,8 +86,8 @@ public class Tree23<K extends Comparable<K>, V> {
 			r.valueRigth = value;
 
 		// segue abaixo
-		// casos em que a arvore ja esta com duas chaves preeenchidas no nó r
-		// e é necessario inserir outra chave no no .
+		// casos em que a arvore ja esta com duas chaves preeenchidas no nÃ³ r
+		// Ã© necessario inserir outra chave no no .
 
 		if (cmpLeft > 0 && cmpRigth < 0) {
 			// split
