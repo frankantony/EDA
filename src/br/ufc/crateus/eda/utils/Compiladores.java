@@ -135,7 +135,7 @@ public class Compiladores {
 	public static void main(String[] args) {
 //		String strInfix;
 //		scanner = new Scanner(System.in);
-//		System.out.println("Digite a expressão a ser calculada ENTRE ()");
+//		System.out.println("Digite a expressao a ser calculada ENTRE ()");
 //		strInfix = scanner.next();
 //		Node r = Menu(infixToPosfix(strInfix.toCharArray()));
 		String[] strinfix = {"+","c1","c2"};
