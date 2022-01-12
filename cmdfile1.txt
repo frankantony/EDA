@@ -1,0 +1,11 @@
+find ID 000000097
+find name Platt
+find name Chen
+add 000000060 Shaffer Cliford 1 ALG shaffer@vt.edu
+add 000000066 Platt Jenny 1 UNK platt@vt.edu
+add 000000021 Chen Jian 0 cSE jchen@vt.edu
+find name Platt
+dump by ID
+dump by name
+find name Chen
+find name Vergara
